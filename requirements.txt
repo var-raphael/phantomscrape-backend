@@ -8,3 +8,4 @@ python-dotenv
 urllib3
 certifi
 supabase
+gunicorn
